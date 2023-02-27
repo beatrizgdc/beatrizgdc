@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @beatrizgdc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in do an internship
+- 🌱 I’m currently learning ...HTML, CSS, JavaScript, php, JAVA, MySQL
 - 📫 How to reach me ...+55 19 99400-0258
 
 <!---
