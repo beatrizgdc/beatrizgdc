@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @beatrizgdc
-- 👀 I’m interested in do an internship
+- My name is Beatriz and I'm studying Systems Development. I intend to study Computer Science at college and my interests at the moment are back-end and DBA.
+I'm looking for an internship in the area to start developing my personal career.
 - 🌱 I’m currently learning ...HTML, CSS, JavaScript, php, JAVA, MySQL
 - 📫 How to reach me ...+55 19 99400-0258
 
