@@ -14,9 +14,9 @@ Javascript, HTML, CSS, JAVA, PHP...
 
 
 ## Um pouquinho mais sobre mim
-👩‍💻 Trabalho atualmente na Evernet Sistemas
+👩‍💻 Trabalho atualmente na Compass UOL
 
-🧠 Estou aprendendo JAVA
+🧠 Estou aprendendo NodeJS e AWS
 
 📫 Entre em contato comigo pelo email: beatrizgdcevaio@gmail.com
 
