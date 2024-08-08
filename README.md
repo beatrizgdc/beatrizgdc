@@ -1,20 +1,19 @@
 
 
-# Betriz Garcia -- Desenvolvedora Back-end Júnior
-## 🧠 FORMAÇÃO ACADÊMICA
+# Betriz Garcia -- Programmer and Software Developer
+## 🧠 ACADEMIC EDUCATION
 
-Eu sou formada em Técnico em desenvolvimento de Sistemas na ETEC.
+I graduated as a Systems Development Technician at ETEC.
+I am studying for a degree in Internet Systems at the Instituto Federal Catarinense.
 
-Estou cursando Graduação em Sistemas para Internet no Instituto Federal Catarinense.
-
-## 🛠 Habilidades
+## 🛠 Skills
 PHP, NodeJS, REACT, Jquery, Javascript, HTML, CSS, JAVA...
 
-## Um pouquinho mais sobre mim
-👩‍💻 Trabalho atualmente na Compass UOL como estagiária back-end em nodejs e aws
+## A little more about me
+👩‍💻 I currently work at Compass UOL as a Backend development intern (Node.js) for Commerce on AWS
 
-🧠 Estou aprendendo NodeJS e AWS
+🧠 I'm learning NodeJS and AWS
 
-📫 Entre em contato comigo pelo email: beatrizgdcevaio@gmail.com
+📫 Contact me by email: beatrizgdcevaio@gmail.com
 
 
