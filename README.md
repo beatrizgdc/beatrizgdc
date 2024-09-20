@@ -21,8 +21,6 @@
 I graduated as a Systems Development Technician at ETEC.
 I am studying for a degree in Internet Systems at the Instituto Federal Catarinense.
 
-<img src="https://raw.githubusercontent.com/beatrizgdc/beatrizgdc/output/snake.svg" alt="Snake animation" />
-
 📫 Contact me by email: beatrizgdcevaio@gmail.com
 
 
