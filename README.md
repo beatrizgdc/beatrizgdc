@@ -129,9 +129,7 @@ práticas ágeis.</h1>
 
 ## 💼 Experiência Profissional
 
-Atualmente, atuo como Cloud Community Manager voluntário no Tech Share Talks, onde crio conteúdo educativo sobre AWS, cloud computing e boas práticas de desenvolvimento, além de realizar demonstrações práticas de soluções AWS para cenários reais. Minha experiência inclui a proposta de estratégias inovadoras para alinhar soluções tecnológicas às tendências de mercado e o engajamento da comunidade para promover conhecimento e networking.
-
-Anteriormente, como Estágio em Desenvolvimento Backend na Compass UOL, trabalhei com Node.js, JavaScript e TypeScript para desenvolver e manter sistemas backend, integrando sistemas via APIs RESTful e JSON. Utilizei serviços AWS como EC2, S3, RDS e Lambda para infraestrutura em nuvem, colaborando com equipes ágeis usando metodologia Scrum.
+Fiz Estágio em Desenvolvimento Backend na Compass UOL, trabalhei com Node.js, JavaScript e TypeScript para desenvolver e manter sistemas backend, integrando sistemas via APIs RESTful e JSON. Utilizei serviços AWS como EC2, S3, RDS e Lambda para infraestrutura em nuvem, colaborando com equipes ágeis usando metodologia Scrum.
 
 Como Programador Júnior na Evernet, desenvolvi e mantive projetos em PHP, trabalhei com tecnologias front-end como HTML5, CSS e JavaScript/jQuery, e gerenciei bancos de dados relacionais (MySQL, PostgreSQL). Essa experiência me permitiu consolidar habilidades em desenvolvimento full-stack e gestão de bancos de dados.
 
