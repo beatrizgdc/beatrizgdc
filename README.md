@@ -35,9 +35,7 @@ Trabalho com resposta a incidentes, automação, infraestrutura como código e o
 - AWS Certified AI Practitioner (2026)
 - AWS Certified Cloud Practitioner (2024)
 
-## Fora do código
 
-Mentora voluntária no Programa de Mentoria da Escola da Nuvem e palestrante no SECOMP UFSCar sobre computação em nuvem e carreiras em infraestrutura, DevOps e SRE. Produzo conteúdo educacional sobre cloud e infraestrutura.
 
 ## Contato
 
