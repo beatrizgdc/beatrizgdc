@@ -1,4 +1,4 @@
-**CloudOps | AWS, IaC, CI/CD e Observabilidade | rumo a SRE**
+**CloudOps | AWS, IaC, CI/CD e Observabilidade | SRE**
 
 ## Sobre mim
 
